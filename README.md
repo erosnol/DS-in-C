@@ -1,2 +1,2 @@
 # DS-in-C
-data structure in C
+data structures in C
